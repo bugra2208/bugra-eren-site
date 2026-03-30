@@ -1,0 +1,13 @@
+{
+  "arkadaslar": [
+    {
+      "isim": "Burak",
+      "no": "83252208",
+      "sifre": "4466",
+      "hakkinda": "Burak çok iyi çocuktur.",
+      "notlar": "Test için yazıldı.",
+      "fotograf": null,
+      "etiketler": ["iyi insan", "arkadaş"]
+    }
+  ]
+}
